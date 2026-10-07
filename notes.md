@@ -8,3 +8,4 @@ Main branch update
 =======
 Rebase practice note
 >>>>>>> 4a11d0e (add rebase practice entry)
+# Direct edit on GitHub
