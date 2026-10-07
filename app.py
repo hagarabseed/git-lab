@@ -1,3 +1,1 @@
-print('Hello Git')
-print('v1 ready')
-def login(): return True
+print('Conflict from Branch A')
